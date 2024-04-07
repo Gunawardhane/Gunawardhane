@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React , Flutter , Spring**
 
-- 👨‍💻 All of my projects are available at [yasanga.com](https://yasanga.com)
+- 👨‍💻 All of my projects are available at [yasanga.me](https://yasanga.me)
 
 - 💬 Ask me about **Java , JavaScript**
 
